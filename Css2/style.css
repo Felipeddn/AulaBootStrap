@@ -1,0 +1,43 @@
+p{
+    font-size: 20px;
+}
+
+.p1{
+    font-size: 16.7px;
+}
+
+body{
+    font: Arial, sans-serif ; 
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: green; 
+}
+
+.Quem-Somos {
+    background-color: blueviolet ;
+}
+
+.parceiros{
+    background-color: grey;
+}
+
+.serviços{
+    background-color: crimson;
+}
+
+h3{
+    color: white;
+    }
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.bg-footer {
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
